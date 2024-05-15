@@ -9,8 +9,9 @@ This is an online event planning web application developed using Java, following
 - **Event Viewing**: Users can view a list of all upcoming events, sorted by date.
 - **Event Update**: Users can modify event details, such as date, time, and location.
 - **Event Deletion**: Users can delete events they created.
-- **Search Functionality**: Users can search for specific events based on title, date, or location.
-- **Responsive Design**: The web app is designed to be responsive, ensuring a seamless experience across different devices.
+- **Event Browsing**: Browse through a list of available events, filtering by category, date, or location. Utilize the search functionality to find specific events.
+- **Event Details**: Access detailed information about each event, including date, time, venue, ticket prices, along with event images and descriptions.
+-**Ticket Booking**: Enjoy a simple booking process with minimal steps. Choose from multiple payment options such as credit/debit cards, mobile wallets, etc. Digital tickets with QR codes are generated for easy                        validation.
 
 ## Technologies Used
 - Java
